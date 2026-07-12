@@ -1,0 +1,18 @@
+{
+  "name": "distributed-job-scheduler-worker",
+  "version": "1.0.0",
+  "description": "Background Worker Service for Distributed Job Scheduler",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prisma": "^5.12.1"
+  }
+}
