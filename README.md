@@ -129,8 +129,8 @@ npm run test
 
 ---
 
-## Screenshots Placeholder
-*(Screenshots showing the Dashboard widgets, throughput charts, and Job explorer terminal log drawer can be placed here during deployment).*
+## Diagrams
+https://drive.google.com/file/d/1HjNEtcTitDWgk2NhzqNBNdVAODmjPxPN/view?usp=drivesdk
 
 ---
 
